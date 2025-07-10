@@ -119,7 +119,7 @@ export default function TestimonialsPage() {
               Customer Reviews
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Real stories from real families who trust Rama Kata with their children's care.
+              Real stories from real families who trust Rama Kata with their children&apos;s care.
             </p>
           </div>
           

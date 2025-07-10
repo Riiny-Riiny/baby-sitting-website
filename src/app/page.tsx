@@ -122,7 +122,7 @@ export default function HomePage() {
               Our Services
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We offer a range of babysitting services to meet your family's needs, 
+              We offer a range of babysitting services to meet your family&apos;s needs, 
               from regular care to emergency situations.
             </p>
           </div>
