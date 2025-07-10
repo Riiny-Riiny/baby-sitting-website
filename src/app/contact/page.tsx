@@ -81,8 +81,8 @@ export default function ContactPage() {
                 Send Us a Message
               </h2>
               <p className="text-gray-600 mb-8">
-                Fill out the form below and we'll get back to you within 24 hours. 
-                We're here to answer any questions and help you find the perfect babysitting solution.
+                Fill out the form below and we&apos;ll get back to you within 24 hours. 
+                We&apos;re here to answer any questions and help you find the perfect babysitting solution.
               </p>
               <ContactForm />
             </div>
@@ -93,7 +93,7 @@ export default function ContactPage() {
                 Contact Information
               </h2>
               <p className="text-gray-600 mb-8">
-                We're here to help with all your childcare needs. Reach out to us through any of these channels.
+                We&apos;re here to help with all your childcare needs. Reach out to us through any of these channels.
               </p>
               
               <div className="space-y-6">

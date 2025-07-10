@@ -26,7 +26,7 @@ const TestimonialCard = ({ name, rating, comment, date, children }: TestimonialC
       </div>
       
       <blockquote className="text-gray-700 mb-4 italic">
-        "{comment}"
+        &quot;{comment}&quot;
       </blockquote>
       
       <div className="flex items-center justify-between">

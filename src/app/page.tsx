@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { Baby, Heart, Shield, Clock, Star, ArrowRight } from "lucide-react";
 import ServiceCard from "@/components/ServiceCard";
@@ -70,7 +69,7 @@ export default function HomePage() {
               </h1>
               <p className="text-xl text-gray-600 mb-8">
                 Professional, reliable, and caring babysitting services that give you peace of mind. 
-                Your children's safety and happiness are our top priorities.
+                Your children&apos;s safety and happiness are our top priorities.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
@@ -153,9 +152,9 @@ export default function HomePage() {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
               What Parents Say
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Don't just take our word for it - hear from the families we've had the pleasure of serving.
-            </p>
+                           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+                 Don&apos;t just take our word for it - hear from the families we&apos;ve had the pleasure of serving.
+               </p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -165,9 +164,9 @@ export default function HomePage() {
                   <Star key={index} className="h-4 w-4 text-yellow-400 fill-current" />
                 ))}
               </div>
-              <blockquote className="text-gray-700 mb-4 italic">
-                "Rama Kata has been a lifesaver for our family. The caregivers are so loving and professional. Highly recommend!"
-              </blockquote>
+                             <blockquote className="text-gray-700 mb-4 italic">
+                 &quot;Rama Kata has been a lifesaver for our family. The caregivers are so loving and professional. Highly recommend!&quot;
+               </blockquote>
               <p className="font-semibold text-gray-800">- Sarah M.</p>
             </div>
             
@@ -177,9 +176,9 @@ export default function HomePage() {
                   <Star key={index} className="h-4 w-4 text-yellow-400 fill-current" />
                 ))}
               </div>
-              <blockquote className="text-gray-700 mb-4 italic">
-                "We've been using their services for over a year now. Always reliable and our kids love them!"
-              </blockquote>
+                             <blockquote className="text-gray-700 mb-4 italic">
+                 &quot;We&apos;ve been using their services for over a year now. Always reliable and our kids love them!&quot;
+               </blockquote>
               <p className="font-semibold text-gray-800">- Michael T.</p>
             </div>
             
@@ -189,9 +188,9 @@ export default function HomePage() {
                   <Star key={index} className="h-4 w-4 text-yellow-400 fill-current" />
                 ))}
               </div>
-              <blockquote className="text-gray-700 mb-4 italic">
-                "The emergency care service is amazing. They've helped us out of tight spots multiple times."
-              </blockquote>
+                             <blockquote className="text-gray-700 mb-4 italic">
+                 &quot;The emergency care service is amazing. They&apos;ve helped us out of tight spots multiple times.&quot;
+               </blockquote>
               <p className="font-semibold text-gray-800">- Jennifer L.</p>
             </div>
           </div>

@@ -14,7 +14,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-600 mb-4 max-w-md">
               Providing loving, reliable, and professional babysitting services for families in our community. 
-              Your children's safety and happiness are our top priorities.
+              Your children&apos;s safety and happiness are our top priorities.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-pink-400 hover:text-pink-500 transition-colors duration-200">

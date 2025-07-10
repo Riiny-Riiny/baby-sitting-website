@@ -92,7 +92,7 @@ const ContactForm = () => {
         <CheckCircle className="h-12 w-12 text-green-500 mx-auto mb-4" />
         <h3 className="text-lg font-semibold text-green-800 mb-2">Thank You!</h3>
         <p className="text-green-700 mb-4">
-          Your message has been sent successfully. We'll get back to you soon!
+          Your message has been sent successfully. We&apos;ll get back to you soon!
         </p>
         <button
           onClick={() => setIsSubmitted(false)}

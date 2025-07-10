@@ -47,8 +47,8 @@ export default function AboutPage() {
               About <span className="text-pink-500">Rama Kata</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We're passionate about providing families with reliable, loving, and professional babysitting services. 
-              Your children's safety and happiness are our top priorities.
+              We&apos;re passionate about providing families with reliable, loving, and professional babysitting services. 
+              Your children&apos;s safety and happiness are our top priorities.
             </p>
           </div>
         </div>
@@ -69,12 +69,12 @@ export default function AboutPage() {
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 We understand that finding the right caregiver for your children is one of the most important decisions 
-                a family can make. That's why we've built a team of experienced, certified, and loving caregivers 
+                a family can make. That&apos;s why we&apos;ve built a team of experienced, certified, and loving caregivers 
                 who are passionate about working with children.
               </p>
               <p className="text-lg text-gray-600">
                 Whether you need regular childcare, overnight care, or emergency babysitting services, 
-                we're here to support your family with the highest level of care and professionalism.
+                we&apos;re here to support your family with the highest level of care and professionalism.
               </p>
             </div>
             <div className="bg-gradient-to-br from-pink-100 to-blue-100 rounded-2xl p-8">

@@ -128,8 +128,8 @@ export default function ServicesPage() {
               Our <span className="text-pink-500">Services</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              We offer a comprehensive range of babysitting services to meet your family's unique needs. 
-              From regular care to emergency situations, we're here to support you.
+              We offer a comprehensive range of babysitting services to meet your family&apos;s unique needs. 
+              From regular care to emergency situations, we&apos;re here to support you.
             </p>
           </div>
         </div>
@@ -143,7 +143,7 @@ export default function ServicesPage() {
               Our Services
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Choose from our range of professional babysitting services designed to meet your family's needs.
+              Choose from our range of professional babysitting services designed to meet your family&apos;s needs.
             </p>
           </div>
           
@@ -187,7 +187,7 @@ export default function ServicesPage() {
               Pricing & Policies
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Transparent pricing and flexible policies to meet your family's needs.
+              Transparent pricing and flexible policies to meet your family&apos;s needs.
             </p>
           </div>
           

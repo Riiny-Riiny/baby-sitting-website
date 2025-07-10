@@ -90,7 +90,7 @@ export default function TestimonialsPage() {
               What Parents <span className="text-pink-500">Say</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Don't just take our word for it - hear from the families we've had the pleasure of serving. 
+              Don&apos;t just take our word for it - hear from the families we&apos;ve had the pleasure of serving. 
               Our commitment to excellence speaks through the experiences of our happy clients.
             </p>
           </div>
@@ -143,7 +143,7 @@ export default function TestimonialsPage() {
               ))}
             </div>
             <blockquote className="text-2xl md:text-3xl text-gray-800 mb-8 italic">
-              "Rama Kata has transformed our family's life. As working parents, we needed reliable, loving childcare, and they delivered beyond our expectations. Our children are not just cared for—they're loved, educated, and happy. The caregivers are like family to us now."
+              &quot;Rama Kata has transformed our family&apos;s life. As working parents, we needed reliable, loving childcare, and they delivered beyond our expectations. Our children are not just cared for—they&apos;re loved, educated, and happy. The caregivers are like family to us now.&quot;
             </blockquote>
             <div className="flex items-center justify-center space-x-4">
               <div className="bg-pink-500 p-3 rounded-full">
