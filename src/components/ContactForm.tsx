@@ -116,7 +116,7 @@ const ContactForm = () => {
           name="name"
           value={formData.name}
           onChange={handleChange}
-          className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition-colors duration-200 ${
+          className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition-colors duration-200 text-gray-900 placeholder-gray-500 ${
             errors.name ? 'border-red-300' : 'border-gray-300'
           }`}
           placeholder="Your full name"
@@ -136,7 +136,7 @@ const ContactForm = () => {
           name="email"
           value={formData.email}
           onChange={handleChange}
-          className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition-colors duration-200 ${
+          className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition-colors duration-200 text-gray-900 placeholder-gray-500 ${
             errors.email ? 'border-red-300' : 'border-gray-300'
           }`}
           placeholder="your.email@example.com"
@@ -156,7 +156,7 @@ const ContactForm = () => {
           value={formData.message}
           onChange={handleChange}
           rows={5}
-          className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition-colors duration-200 resize-none ${
+          className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-pink-500 transition-colors duration-200 resize-none text-gray-900 placeholder-gray-500 ${
             errors.message ? 'border-red-300' : 'border-gray-300'
           }`}
           placeholder="Tell us about your babysitting needs..."
